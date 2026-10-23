@@ -1,0 +1,42 @@
+# Hi, I'm Kent 👋
+
+Software engineer with a firmware background, now building in Web3.
+I started as a **mobile phone firmware R&D engineer at Acer** (C / C++ / Java), and since 2022 I've been building around blockchain: smart contracts, cross-chain (IBC) app templates, and, more and more, **on-chain data and AI automation tools**.
+
+I also run [@0xnut6](https://x.com/0xnut6) on X, where I publish crypto and on-chain analysis in English, Traditional Chinese, and Simplified Chinese.
+
+🌏 Open to remote work.
+
+---
+
+## What I build
+
+| Project | What it does | Status |
+|---|---|---|
+| **postcheck** | Pre-publish checker for social posts (length, duplicates, style rules) | Coming soon |
+| **rh-radar / meme-radar** | Read-only on-chain token radar that scans new DEX pools and summarizes candidates | Coming soon |
+| **alt-oi-signal** | Open-interest signal research and backtesting on altcoin perpetuals | Coming soon |
+| **dexscan** | DEX Screener data collection and analysis | Coming soon |
+| **x-growth** | Content pipeline and playbook for running a data-driven X account | Coming soon |
+
+## Tech
+
+- **Languages:** C, C++, Java, Python, JavaScript / TypeScript, Solidity (basic)
+- **Background:** embedded / mobile firmware development
+- **Web3:** EVM, Solana, Hyperliquid, Cosmos IBC, DEX and on-chain data APIs
+- **Automation:** REST APIs, data analysis, LLM-assisted workflows
+
+## Currently
+
+Building on-chain monitoring and signal-research tools, and automating my research and publishing workflow with AI.
+
+## Find me
+
+- X: [@0xnut6](https://x.com/0xnut6)
+- Email: 0xnut6+github@mail.grokbot.com
+
+---
+
+## 中文簡介
+
+前 Acer 手機韌體研發工程師（C / C++ / Java），2022 年起投入 Web3 開發，專注在鏈上數據分析與 AI 自動化工具。在 X 經營 @0xnut6，以英文、繁中、簡中發佈加密貨幣與鏈上分析。可遠端工作。
