@@ -16,7 +16,7 @@ I also run [@0xnut6](https://x.com/0xnut6) on X, where I publish crypto and on-c
 | **[postcheck](https://github.com/kentsmallt/postcheck)** | Pre-publish checker for social posts (length, duplicates, style rules) | Live |
 | **rh-radar / meme-radar** | Read-only on-chain token radar that scans new DEX pools and summarizes candidates | Coming soon |
 | **[alt-oi-signal](https://github.com/kentsmallt/alt-oi-signal)** | Open-interest signal research and backtesting on altcoin perpetuals | Live |
-| **dexscan** | DEX Screener data collection and analysis | Coming soon |
+| **[dexscan](https://github.com/kentsmallt/dexscan)** | CLI that scans DEX Screener pairs for liquidity, 24h volume, vol/liq, age, and txns (public API, no keys) | Live |
 | **x-growth** | Content pipeline and playbook for running a data-driven X account | Coming soon |
 | **[hl-funding-dashboard](https://github.com/kentsmallt/hl-funding-dashboard)** | Static Hyperliquid funding-rate dashboard: APR, OI, 7-day history, cross-venue comparison, alerts (public API, no keys) | Live |
 | **[solidity-vesting](https://github.com/kentsmallt/solidity-vesting)** | Solidity token vesting vault with cliff, revocable schedules and multiple beneficiaries; Foundry fuzz + invariant tests | Live |
