@@ -14,6 +14,7 @@ I also run [@0xnut6](https://x.com/0xnut6) on X, where I publish crypto and on-c
 | Project | What it does | Status |
 |---|---|---|
 | **[postcheck](https://github.com/kentsmallt/postcheck)** | Pre-publish checker for social posts (length, duplicates, style rules) | Live |
+| **[entropy-maker](https://github.com/kentsmallt/entropy-maker)** | Professional Hyperliquid / Entropy maker toolkit (paper default; no wash / self-trade) | Live |
 | **rh-radar / meme-radar** | Read-only on-chain token radar that scans new DEX pools and summarizes candidates | Coming soon |
 | **[alt-oi-signal](https://github.com/kentsmallt/alt-oi-signal)** | Open-interest signal research and backtesting on altcoin perpetuals | Live |
 | **[dexscan](https://github.com/kentsmallt/dexscan)** | CLI that scans DEX Screener pairs for liquidity, 24h volume, vol/liq, age, and txns (public API, no keys) | Live |
@@ -30,7 +31,7 @@ I also run [@0xnut6](https://x.com/0xnut6) on X, where I publish crypto and on-c
 
 ## Currently
 
-Building on-chain monitoring and signal-research tools, and automating my research and publishing workflow with AI.
+Shipping open tools for Hyperliquid / Entropy market-making research (paper-first), funding dashboards, DEX scanning, and AI-assisted publishing.
 
 ## Find me
 
@@ -41,4 +42,4 @@ Building on-chain monitoring and signal-research tools, and automating my resear
 
 ## 中文簡介
 
-前 Acer 手機韌體研發工程師（C / C++ / Java），2022 年起投入 Web3 開發，專注在鏈上數據分析與 AI 自動化工具。在 X 經營 @0xnut6，以英文、繁中、簡中發佈加密貨幣與鏈上分析。可遠端工作。
+前 Acer 手機韌體研發工程師（C / C++ / Java），2022 年起投入 Web3 開發，專注在鏈上數據分析、Hyperliquid／Entropy 做市研究工具（紙上預設）與 AI 自動化。在 X 經營 @0xnut6，以英文、繁中、簡中發佈加密貨幣與鏈上分析。可遠端工作。
