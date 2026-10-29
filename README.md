@@ -15,6 +15,7 @@ I also run [@0xnut6](https://x.com/0xnut6) on X, where I publish crypto and on-c
 |---|---|---|
 | **[postcheck](https://github.com/kentsmallt/postcheck)** | Pre-publish checker for social posts (length, duplicates, style rules) | Live |
 | **[entropy-maker](https://github.com/kentsmallt/entropy-maker)** | Professional Hyperliquid / Entropy maker toolkit (paper default; no wash / self-trade) | Live |
+| **[cross-venue-arb](https://github.com/kentsmallt/cross-venue-arb)** | Cross-venue crypto price-spread / arb research toolkit (paper/dry-run default) | Live |
 | **rh-radar / meme-radar** | Read-only on-chain token radar that scans new DEX pools and summarizes candidates | Coming soon |
 | **[alt-oi-signal](https://github.com/kentsmallt/alt-oi-signal)** | Open-interest signal research and backtesting on altcoin perpetuals | Live |
 | **[dexscan](https://github.com/kentsmallt/dexscan)** | CLI that scans DEX Screener pairs for liquidity, 24h volume, vol/liq, age, and txns (public API, no keys) | Live |
